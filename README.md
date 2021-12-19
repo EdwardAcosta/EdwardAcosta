@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edward Rene Acosta
 - 👀 I’m interested in Web based database Applications
-- 🌱 I’m currently learning Web Developement and Javascript 
+- 🌱 I’m currently learning Web Developement, Javascript abs Ruby On Rails. 
 - 💞️ 
 - 📫 
