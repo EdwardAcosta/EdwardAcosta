@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web Developement, Javascript and Ruby On Rails. 
 - 💞️ 
 - 📫 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAcosta)](https://github.com/EdwardAcosta/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAcosta)](https://github.com/EdwardAcosta/github-readme-stats,count_private=true)
