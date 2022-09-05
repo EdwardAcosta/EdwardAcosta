@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edward Rene Acosta.
 - 👀 I’m interested in Web based database Applications.
-- 🌱 I’m currently learning Web Developement, Javascript and Ruby On Rails. 
+- 🌱 I’m currently learning Web Developement, Javascript, Ruby On Rails, Mysql2 
 - 💞️ 
 - 📫 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAcosta&count_private=true)](https://github.com/EdwardAcosta/github-readme-stats)
