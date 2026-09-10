@@ -3,4 +3,4 @@
 - 🌱 Am currently tinkering with Web Developement, Python, Django, Ruby On Rails, and Mysql2 
 - 💞️ 
 - 📫 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAcosta&count_private=true)](https://github.com/EdwardAcosta/github-readme-stats)
+- 
